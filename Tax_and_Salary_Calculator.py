@@ -1,7 +1,7 @@
 #This program calculates the Tax and Salary of a month
 #This program is made by Saksham Gupta
 
-#This function makes sure input is an integer
+#This function makes sure input is a positive integer
 def IntegerGetter(str):
     while True:
         try:
